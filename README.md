@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eumaeus/fuCite-jupyter/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub-binder.mybinder.ovh/user/eumaeus-fucite-jupyter-z0a4v5az/notebooks/index.ipynb)
 
 # Furman University · CITE Tutorials
 
