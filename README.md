@@ -8,6 +8,6 @@ These notebooks use the [Almond kernel](https://almond.sh/).  You can run a note
 
     docker run -it --rm -p 8888:8888 almondsh/almond:0.9.0
 
-You can also work interactively with these notebooks on [mybinder.org](https://mybinder.org/v2/gh/neelsmith/nomisma-jupyter/master).
+You can also work interactively with these notebooks on [mybinder.org](https://mybinder.org/v2/gh/Eumaeus/fuCite-jupyter/master).
 
 This work is based on that of [Neel Smith](https://github.com/neelsmith/nomisma-jupyter).
