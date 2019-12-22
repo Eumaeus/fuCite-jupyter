@@ -10,4 +10,9 @@ These notebooks use the [Almond kernel](https://almond.sh/).  You can run a note
 
 You can also work interactively with these notebooks on [mybinder.org](https://mybinder.org/v2/gh/Eumaeus/fuCite-jupyter/master).
 
+If you have Jupyter Notebooks installed locally, with the Almond kernal, you can run this with:
+
+    jupyter notebook
+
 This work is based on that of [Neel Smith](https://github.com/neelsmith/nomisma-jupyter).
+
