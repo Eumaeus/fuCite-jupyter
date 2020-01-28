@@ -1,0 +1,13 @@
+#!cexversion
+3.0
+
+#!citelibrary
+name#CEX library
+urn#urn:cite2:cex:unesp_fu.v1:temp2
+license#CC 3.0 NC-BY
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:greekLit:tlg0096.tlg002.First1K-grc1:#fable#Aesop#Fabulae#Helm, Teubner, 1872##true#grc
+urn:cts:greekLit:tlg0096.tlg002.mcdezotti:#fable#Aesop#Fabulae#M.C. Dezotti, trans., 2020##true#por
+
