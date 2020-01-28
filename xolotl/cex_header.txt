@@ -1,0 +1,12 @@
+#!cexversion
+3.0
+
+#!citelibrary
+name#CEX library
+urn#urn:cite2:cex:temp_xolotl.v1:temp1
+license#CC 3.0 NC-BY
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:greekLit:torquemada.001.offner:#chapter/section/sentence#fray Juan de Torqeumada#Monarquía indiana, 1615#Offner, etc.##true#esp
+
