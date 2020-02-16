@@ -2,8 +2,8 @@
 #!cexversion
 3.0
 #!citelibrary
-name#CEX library
-urn#urn:cite2:cex:temp_xolotl.v1:temp1
+name#Codex Xolotl, Initial data release, 2020c
+urn#urn:cite2:cex:temp_xolotl.v1:2020c
 license#CC 3.0 NC-BY
 
 #!ctscatalog
@@ -13251,12 +13251,14 @@ Collection#Model#Label#Description
 urn:cite2:xolotl:codeximg.2020:#urn:cite2:cite:datamodels.v1:imagemodel#Citable image model#CITE architecture model of citable images.  See documentation at <http://cite-architecture.github.io/imagemodel/>.
 urn:cite2:fufolio:binaryimg.v1:#urn:cite2:cite:datamodels.v1:binaryimg#Citable image model#CITE architecture model of binary images manipulable by URN reference.  See <TBA>.
 // DSE identified below
-urn:cite2:xolotl:codexdse.v1:#urn:cite2:cite:datamodels.v1:dse#DSE model#Diplomatic Scholarly Edition (DSE) model.  See documentation at <https://github.com/cite-architecture/dse>.
+urn:cite2:xolotl:codexdse.v1:#urn:cite2:cite:datamodels.v1:dsemodel#DSE model#Diplomatic Scholarly Edition (DSE) model.  See documentation at <https://github.com/cite-architecture/dse>.
+// Extended String Property Types
+urn:cite2:fufolio:extended_text_properties.v1:#urn:cite2:cite:datamodels.v1:extensions_text#Extended Text Properies#Extended Text Property. See documentation at <https://github.com/cite-architecture/>.
 
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
 urn:cite2:xolotl:codex.v1:#Codex Xolotl#urn:cite2:xolotl:codex.v1.label:#urn:cite2:xolotl:codex.v1.sequence:#CC-NC-BY
-urn:cite2:xolotl:codeximg.2020:#Images of Papyri: Furman Research#urn:cite2:xolotl:codeximg.2020.caption:##CC-attribution-share-alike
+urn:cite2:xolotl:codeximg.2020:#Images of Codex Xolotl#urn:cite2:xolotl:codeximg.2020.caption:##CC-attribution-share-alike
 //
 // A collection that documents our datamodels
 //
@@ -13269,6 +13271,34 @@ urn:cite2:fufolio:binaryimg.v1:#Collections of binary images#urn:cite2:fufolio:b
 // Collection of DSE Records
 //
 urn:cite2:xolotl:codexdse.v1:#DSE model of the Codex Xolotl#urn:cite2:xolotl:codexdse.v1.label:#urn:cite2:xolotl:codexdse.v1.seq:#CC-attribution-share-alike
+//
+// This is a collection of extended text properties
+//
+urn:cite2:fufolio:extended_text_properties.v1:#Extended Text Properties#urn:cite2:fufolio:extended_text_properties.v1.label:##CC-BY-SA
+
+// 
+// Properties for the extended_text_properties extension
+// In addition to the (standard) URN and label, there are:
+// a propertyurn, identifying the property of type "string", and
+// its type, an enumerated list of supported extensions.
+// (a different collection could define any other set of extension types.)
+//
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:fufolio:extended_text_properties.v1.urn:#URN#Cite2Urn#
+urn:cite2:fufolio:extended_text_properties.v1.label:#Label#String#
+urn:cite2:fufolio:extended_text_properties.v1.propertyurn:#Property URN#Cite2Urn#
+urn:cite2:fufolio:extended_text_properties.v1.extendedtype:#Extended Text Type#String#geojson,pleiadesuri,latlong,markdown,teixml
+
+//
+// Records for the extended_text_properties collection.
+// Note that we can identify properties at the versioned-collection-level _or_
+// at the individual object level.
+//
+#!citedata
+urn#label#propertyurn#extendedtype
+urn:cite2:fufolio:extended_text_properties.v1:xolotl_places#Place identifications proposed for the CodexXolotl#urn:cite2:xolotl:placeidentifications.v1.geo:#latlong
+urn:cite2:fufolio:extended_text_properties.v1:xolotl_md#Description field in Xolotl Places collection#urn:cite2:xolotl:placeidentifications.v1.desc:#markdown
 
 //
 // Properties for the DSE Collection
@@ -13373,21 +13403,21 @@ urn:cite2:xolotl:commentary.v1.date:#Data#String#
 
 #!citedata
 urn#label#surface#img#comment#commentator#date
-urn:cite2:xolotl:commentary.v1:1#Comment 1#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1747,0.2732,0.1129#A scene with Xolotl in it.#CWB#2020-02-01
-urn:cite2:xolotl:commentary.v1:2#Comment 2#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1991,0.08156,0.07281#Here's Xolotl#CWB#2020-02-01
-urn:cite2:xolotl:commentary.v1:3#Comment 3#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.5224,0.1879,0.07894,0.08048#A toltec guy with his offspring#CWB#2020-02-01
-urn:cite2:xolotl:commentary.v1:4#Comment 4#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4723,0.1863,0.06060,0.01436#This evidently means "four years".#CWB#2020-02-01
-urn:cite2:xolotl:commentary.v1:5#Comment 5#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4455,0.1983,0.1235,0.08717#Maybe this is some geographic feature?#CWB#2020-02-01
-urn:cite2:xolotl:commentary.v1:6#Comment 6#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4255,0.2070,0.05536,0.04054#A figure who seems to be wearing a bib.#CWB#2020-02-01
+urn:cite2:xolotl:commentary.v1:1#Comment 1#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1747,0.2732,0.1129#Xolotl encounters Toltec husband and wife with child at Tepexoxoma.#JO#2020-02-01
+urn:cite2:xolotl:commentary.v1:2#Comment 2#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1991,0.08156,0.07281#Xolotl observes#JO#2020-02-01
+urn:cite2:xolotl:commentary.v1:3#Comment 3#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.5224,0.1879,0.07894,0.08048#A Toltec woman and child#JO#2020-02-01
+urn:cite2:xolotl:commentary.v1:4#Comment 4#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4723,0.1863,0.06060,0.01436#"four years"#JO#2020-02-01
+urn:cite2:xolotl:commentary.v1:5#Comment 5#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4455,0.1983,0.1235,0.08717#Tepexoxoma / Tepexomaco, possibly modern Tepeojuma#JO#2020-02-01
+urn:cite2:xolotl:commentary.v1:6#Comment 6#urn:cite2:xolotl:codex.v1:2#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4255,0.2070,0.05536,0.04054#A Toltec man wearing a tilmatl#CWB#2020-02-01
 
 
 #!relations
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1747,0.2732,0.1129#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:xolotl:commentary.v1:1
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1991,0.08156,0.07281#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:xolotl:commentary.v1:2
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.5224,0.1879,0.07894,0.08048#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:xolotl:commentary.v1:3
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4723,0.1863,0.06060,0.01436#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:xolotl:commentary.v1:4
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4455,0.1983,0.1235,0.08717#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:xolotl:commentary.v1:5
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4255,0.2070,0.05536,0.04054#urn:cite2:cite:verbs.v1:illustrates#urn:cite2:xolotl:commentary.v1:6
+urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1747,0.2732,0.1129#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:1
+urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1991,0.08156,0.07281#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:2
+urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.5224,0.1879,0.07894,0.08048#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:3
+urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4723,0.1863,0.06060,0.01436#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:4
+urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4455,0.1983,0.1235,0.08717#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:5
+urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4255,0.2070,0.05536,0.04054#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:6
 
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
@@ -13404,3 +13434,23 @@ urn:cite2:cite:verbs.v1:commentsOn#Subject (a CtsUrn) comments on the object (a 
 urn:cite2:cite:verbs.v1:illustrates#Subject (a Cite2Urn implemented by citable image data model) illustrates an object (a Cite2Urn).
 urn:cite2:cite:verbs.v1:appearsIn#Subject (a Cite2Urn) appears in a text (a CtsUrrn).
 urn:cite2:cite:verbs.v1:appearsOn#Subject (a CtsUrn) appears on a text-bearing surface (a Cite2Urrn).
+
+
+#!citecollections
+URN#Description#Labelling property#Ordering property#License
+urn:cite2:xolotl:placeidentifications.v1:#Proposed identifications of places depicted on the Codex Xolotl#urn:cite2:xolotl:placeidentifications.v1.label:##Public domain
+
+#!citeproperties
+Property#Label#Type#Authority list
+urn:cite2:xolotl:placeidentifications.v1.urn:#URN#Cite2Urn#
+urn:cite2:xolotl:placeidentifications.v1.label:#Label#String#
+urn:cite2:xolotl:placeidentifications.v1.desc:#Description#String#
+urn:cite2:xolotl:placeidentifications.v1.image:#Visual Evidence#Cite2Urn#
+urn:cite2:xolotl:placeidentifications.v1.geo:#Geolocation#String#
+urn:cite2:xolotl:placeidentifications.v1.auth:#Authority#String#
+
+
+#!citedata
+urn#label#desc#image#geo#auth
+urn:cite2:xolotl:placeidentifications.v1:1#Xiuhtepec#*Xiuhtepec*, possibly modern [Jiutepec](https://www.google.com/maps/place/Jiutepec,+Morelos,+Mexico/@18.8592502,-99.3449838,10.97z/data=!4m5!3m4!1s0x85ce758ebb0974d9:0xdfd72bc2570653bf!8m2!3d18.8954874!4d-99.1732936)#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.5450,0.6165,0.06813,0.04231#18.8964874,-99.3895769#Jerome Offner
+urn:cite2:xolotl:placeidentifications.v1:2#Tepexoxoma#*Tepexoxoma* or *Tepexomaco*, possibly modern [Tepeojuma](https://www.google.com/maps/place/Tepeojuma,+Puebla,+Mexico/@18.7260713,-98.4575645,15z/data=!3m1!4b1!4m5!3m4!1s0x85cfac8436cdcf47:0x542cb583882c688!8m2!3d18.7203164!4d-98.4468881)#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4455,0.1983,0.1235,0.08717#18.9391009,-98.7277737#Jerome Offner
