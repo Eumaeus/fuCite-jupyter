@@ -8,5 +8,5 @@ license#CC 3.0 NC-BY
 
 #!ctscatalog
 urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
-urn:cts:greekLit:torquemada.001.offner:#chapter/section/sentence#fray Juan de Torquemada#Monarquía indiana, 1615#Offner, etc.##true#esp
-
+urn:cts:xolotl:torquemada.001.offner:#chapter/section#fray Juan de Torquemada#Monarquía indiana, 1615#Offner, etc.##true#esp
+urn:cts:xolotl:torquemada.001.offner.sent:#chapter/section/sentence#fray Juan de Torquemada#Monarquía indiana, 1615#Offner, etc.#Tokenized by Sentence#true#esp
