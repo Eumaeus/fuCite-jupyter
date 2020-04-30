@@ -6,7 +6,7 @@
 
 ---
 
-##**Folio `urn:cite2:hmt:msA.v1:310r`**
+## **Folio `urn:cite2:hmt:msA.v1:310r`**
 
 
 
@@ -116,7 +116,7 @@ Error: java.lang.Exception: More than one image represented in list.
 
 ---
 
-##**Folio `urn:cite2:hmt:msA.v1:310v`**
+## **Folio `urn:cite2:hmt:msA.v1:310v`**
 
 
 
@@ -158,7 +158,7 @@ Error: java.lang.Exception: More than one image represented in list.
 
 ---
 
-##**Folio `urn:cite2:hmt:msA.v1:309v`**
+## **Folio `urn:cite2:hmt:msA.v1:309v`**
 
 
 

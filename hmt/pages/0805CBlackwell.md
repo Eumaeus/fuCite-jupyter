@@ -6,7 +6,7 @@
 
 ---
 
-##**Folio `urn:cite2:hmt:msA.v1:310v`**
+## **Folio `urn:cite2:hmt:msA.v1:310v`**
 
 
 

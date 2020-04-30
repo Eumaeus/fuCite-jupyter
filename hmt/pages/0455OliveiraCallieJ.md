@@ -6,7 +6,7 @@
 
 ---
 
-##**Folio `urn:cite2:hmt:msA.v1:304r`**
+## **Folio `urn:cite2:hmt:msA.v1:304r`**
 
 
 
@@ -134,7 +134,7 @@
 
 ---
 
-##**Folio `urn:cite2:hmt:msA.v1:303v`**
+## **Folio `urn:cite2:hmt:msA.v1:303v`**
 
 
 
