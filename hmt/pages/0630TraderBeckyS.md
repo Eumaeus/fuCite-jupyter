@@ -14,117 +14,117 @@
 
 ---- 
 
- εἰ μὴ Ἀχιλλεὺς αὐτὸς ἀνίστατο καὶ κατέρυκε ·
+ εἰ μὴ Ἀχιλλεὺς αὐτὸς ἀνίστατο καὶ κατέρυκε · 
 
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.2419,0.4134,0.02656](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.2419,0.4134,0.02656)
-
----- 
-
- μηκέτʼ ἐρείδεσθον , μὴ δὲ τρίβεσθε κακοῖσι ·
-
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.2607,0.4134,0.02545](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.2607,0.4134,0.02545)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.2419,0.4134,0.02656"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.2419,0.4134,0.02656"/></a> 
 
 ---- 
 
- νίκη δʼ ἀμφοτέροισιν · ἀέθλια δʼ ἶσʼ ἀνελόντες
+ μηκέτʼ ἐρείδεσθον , μὴ δὲ τρίβεσθε κακοῖσι · 
 
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.2607,0.4134,0.02545](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.2607,0.4134,0.02545)
-
----- 
-
- ἔρχεσθʼ , ὄφρα καὶ ἄλλοι ἀεθλεύωσιν Ἀχαιοί .
-
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.3017,0.4134,0.02434](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.3017,0.4134,0.02434)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.2607,0.4134,0.02545"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.2607,0.4134,0.02545"/></a> 
 
 ---- 
 
- ὣς ἔφαθʼ , οἳ δʼ ἄρα τοῦ μάλα μὲν κλύον ἠδὲ πίθοντο ,
+ νίκη δʼ ἀμφοτέροισιν · ἀέθλια δʼ ἶσʼ ἀνελόντες 
 
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.3183,0.4340,0.02490](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.3183,0.4340,0.02490)
-
----- 
-
- καί ῥʼ ἀπομορξαμένω κονίην δύσαντο χιτῶνας .
-
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.3353,0.4340,0.02766](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.3353,0.4340,0.02766)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.2607,0.4134,0.02545"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.2607,0.4134,0.02545"/></a> 
 
 ---- 
 
- Πηλεΐδης δʼ αἶψʼ ἄλλα τίθει ταχυτῆτος ἄεθλα
+ ἔρχεσθʼ , ὄφρα καὶ ἄλλοι ἀεθλεύωσιν Ἀχαιοί . 
 
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.3544,0.4193,0.02656](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.3544,0.4193,0.02656)
-
----- 
-
- ἀργύρεον κρητῆρα τετυγμένον · ἓξ δʼ ἄρα μέτρα
-
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.3770,0.4274,0.02434](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.3770,0.4274,0.02434)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.3017,0.4134,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.3017,0.4134,0.02434"/></a> 
 
 ---- 
 
- χάνδανεν , αὐτὰρ κάλλει ἐνίκα πᾶσαν ἐπʼ αἶαν
+ ὣς ἔφαθʼ , οἳ δʼ ἄρα τοῦ μάλα μὲν κλύον ἠδὲ πίθοντο , 
 
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.3959,0.4274,0.02766](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.3959,0.4274,0.02766)
-
----- 
-
- πολλόν , ἐπεὶ Σιδόνες πολυδαίδαλοι εὖ ἤσκησαν ,
-
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4141,0.4274,0.02545](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4141,0.4274,0.02545)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.3183,0.4340,0.02490"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.3183,0.4340,0.02490"/></a> 
 
 ---- 
 
- Φοίνικες δʼ ἄγον ἄνδρες ἐπʼ ἠεροειδέα πόντον ,
+ καί ῥʼ ἀπομορξαμένω κονίην δύσαντο χιτῶνας . 
 
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4333,0.4274,0.02600](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4333,0.4274,0.02600)
-
----- 
-
- στῆσαν δʼ ἐν λιμένεσσι , Θόαντι δὲ δῶρον ἔδωκαν ·
-
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4538,0.4274,0.02379](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4538,0.4274,0.02379)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.3353,0.4340,0.02766"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4880,0.3353,0.4340,0.02766"/></a> 
 
 ---- 
 
- υἷος δὲ Πριάμοιο Λυκάονος ὦνον ἔδωκε
+ Πηλεΐδης δʼ αἶψʼ ἄλλα τίθει ταχυτῆτος ἄεθλα 
 
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4726,0.3841,0.02434](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4726,0.3841,0.02434)
-
----- 
-
- Πατρόκλῳ ἥρωϊ Ἰησονίδης Εὔνηος .
-
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4909,0.3841,0.02434](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4909,0.3841,0.02434)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.3544,0.4193,0.02656"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.3544,0.4193,0.02656"/></a> 
 
 ---- 
 
- καὶ τὸν Ἀχιλλεὺς θῆκεν ἄεθλον οὗ ἑτάροιο ,
+ ἀργύρεον κρητῆρα τετυγμένον · ἓξ δʼ ἄρα μέτρα 
 
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.5112,0.3841,0.02379](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.5112,0.3841,0.02379)
-
----- 
-
- ὅς τις ἐλαφρότατος ποσσὶ κραιπνοῖσι πέλοιτο ·
-
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.5296,0.4070,0.02545](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.5296,0.4070,0.02545)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.3770,0.4274,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.3770,0.4274,0.02434"/></a> 
 
 ---- 
 
- δευτέρῳ αὖ βοῦν θῆκε μέγαν καὶ πίονα δημῷ ,
+ χάνδανεν , αὐτὰρ κάλλει ἐνίκα πᾶσαν ἐπʼ αἶαν 
 
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4838,0.5473,0.4169,0.02379](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4838,0.5473,0.4169,0.02379)
-
----- 
-
- ἡμιτάλαντον δὲ χρυσοῦ λοισθήϊʼ ἔθηκε .
-
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4838,0.5663,0.3841,0.02545](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4838,0.5663,0.3841,0.02545)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.3959,0.4274,0.02766"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.3959,0.4274,0.02766"/></a> 
 
 ---- 
 
- στῆ δʼ ὀρθὸς καὶ μῦθον ἐν Ἀργείοισιν ἔειπεν ·
+ πολλόν , ἐπεὶ Σιδόνες πολυδαίδαλοι εὖ ἤσκησαν , 
 
-![urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4838,0.5859,0.4132,0.02490](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4838,0.5859,0.4132,0.02490)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4141,0.4274,0.02545"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4141,0.4274,0.02545"/></a> 
+
+---- 
+
+ Φοίνικες δʼ ἄγον ἄνδρες ἐπʼ ἠεροειδέα πόντον , 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4333,0.4274,0.02600"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4333,0.4274,0.02600"/></a> 
+
+---- 
+
+ στῆσαν δʼ ἐν λιμένεσσι , Θόαντι δὲ δῶρον ἔδωκαν · 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4538,0.4274,0.02379"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4538,0.4274,0.02379"/></a> 
+
+---- 
+
+ υἷος δὲ Πριάμοιο Λυκάονος ὦνον ἔδωκε 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4726,0.3841,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4726,0.3841,0.02434"/></a> 
+
+---- 
+
+ Πατρόκλῳ ἥρωϊ Ἰησονίδης Εὔνηος . 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4909,0.3841,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.4909,0.3841,0.02434"/></a> 
+
+---- 
+
+ καὶ τὸν Ἀχιλλεὺς θῆκεν ἄεθλον οὗ ἑτάροιο , 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.5112,0.3841,0.02379"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.5112,0.3841,0.02379"/></a> 
+
+---- 
+
+ ὅς τις ἐλαφρότατος ποσσὶ κραιπνοῖσι πέλοιτο · 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.5296,0.4070,0.02545"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4891,0.5296,0.4070,0.02545"/></a> 
+
+---- 
+
+ δευτέρῳ αὖ βοῦν θῆκε μέγαν καὶ πίονα δημῷ , 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4838,0.5473,0.4169,0.02379"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4838,0.5473,0.4169,0.02379"/></a> 
+
+---- 
+
+ ἡμιτάλαντον δὲ χρυσοῦ λοισθήϊʼ ἔθηκε . 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4838,0.5663,0.3841,0.02545"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4838,0.5663,0.3841,0.02545"/></a> 
+
+---- 
+
+ στῆ δʼ ὀρθὸς καὶ μῦθον ἐν Ἀργείοισιν ἔειπεν · 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4838,0.5859,0.4132,0.02490"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307VN_0809@0.4838,0.5859,0.4132,0.02490"/></a> 
 
 ---
 
@@ -138,96 +138,96 @@
 
 ---- 
 
- νίκης ἱέσθην τρίποδος πέρι ποιητοῖο ·
+ νίκης ἱέσθην τρίποδος πέρι ποιητοῖο · 
 
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2104,0.3885,0.3801,0.01840](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2104,0.3885,0.3801,0.01840)
-
----- 
-
- οὔτʼ Ὀδυσεὺς δύνατο σφῆλαι οὔδει τε πελάσσαι ,
-
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2104,0.4043,0.4431,0.02296](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2104,0.4043,0.4431,0.02296)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2104,0.3885,0.3801,0.01840"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2104,0.3885,0.3801,0.01840"/></a> 
 
 ---- 
 
- οὔτʼ Αἴας δύνατο , κρατερὴ δʼ ἔχεν ἲς Ὀδυσῆος .
+ οὔτʼ Ὀδυσεὺς δύνατο σφῆλαι οὔδει τε πελάσσαι , 
 
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2098,0.4213,0.4298,0.02559](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2098,0.4213,0.4298,0.02559)
-
----- 
-
- ἀλλʼ ὅτε δή ῥʼ ἀνίαζον ἐϋκνήμιδας Ἀχαιούς ,
-
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2091,0.4430,0.4298,0.02559](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2091,0.4430,0.4298,0.02559)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2104,0.4043,0.4431,0.02296"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2104,0.4043,0.4431,0.02296"/></a> 
 
 ---- 
 
- δὴ τότε μιν προσέειπε μέγας Τελαμώνιος Αἴας ·
+ οὔτʼ Αἴας δύνατο , κρατερὴ δʼ ἔχεν ἲς Ὀδυσῆος . 
 
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2133,0.4604,0.4488,0.02254](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2133,0.4604,0.4488,0.02254)
-
----- 
-
- διογενὲς Λαερτιάδη πολυμήχανʼ Ὀδυσσεῦ
-
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2089,0.4776,0.4215,0.03015](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2089,0.4776,0.4215,0.03015)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2098,0.4213,0.4298,0.02559"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2098,0.4213,0.4298,0.02559"/></a> 
 
 ---- 
 
- ἤ μʼ ἀνάειρʼ , ἢ ἐγὼ σέ · τὰ δʼ αὖ Διὶ πάντα μελήσει .
+ ἀλλʼ ὅτε δή ῥʼ ἀνίαζον ἐϋκνήμιδας Ἀχαιούς , 
 
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2159,0.4979,0.4458,0.02393](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2159,0.4979,0.4458,0.02393)
-
----- 
-
- ὣς εἰπὼν ἀνάειρε · δόλου δʼ οὐ λήθετʼ Ὀδυσσεύς ·
-
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2124,0.5154,0.4468,0.02462](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2124,0.5154,0.4468,0.02462)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2091,0.4430,0.4298,0.02559"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2091,0.4430,0.4298,0.02559"/></a> 
 
 ---- 
 
- κόψʼ ὄπιθεν κώληπα τυχών , ὑπέλυσε δὲ γυῖα ,
+ δὴ τότε μιν προσέειπε μέγας Τελαμώνιος Αἴας · 
 
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2098,0.5342,0.4493,0.02656](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2098,0.5342,0.4493,0.02656)
-
----- 
-
- κὰδ δʼ ἔβαλʼ ἐξοπίσω · ἐπὶ δὲ στήθεσσιν Ὀδυσσεὺς
-
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2196,0.5550,0.4366,0.02642](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2196,0.5550,0.4366,0.02642)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2133,0.4604,0.4488,0.02254"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2133,0.4604,0.4488,0.02254"/></a> 
 
 ---- 
 
- κάππεσε · λαοὶ δʼ αὖ θηεῦντό τε θάμβησάν τε .
+ διογενὲς Λαερτιάδη πολυμήχανʼ Ὀδυσσεῦ 
 
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2141,0.5729,0.4132,0.03071](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2141,0.5729,0.4132,0.03071)
-
----- 
-
- δεύτερος αὖτʼ ἀνάειρε πολύτλας δῖος Ὀδυσσεύς ,
-
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2071,0.5924,0.4759,0.02697](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2071,0.5924,0.4759,0.02697)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2089,0.4776,0.4215,0.03015"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2089,0.4776,0.4215,0.03015"/></a> 
 
 ---- 
 
- κίνησεν δʼ ἄρα τυτθὸν ἀπὸ χθονός , οὐδʼ ἔτʼ ἄειρεν ,
+ ἤ μʼ ἀνάειρʼ , ἢ ἐγὼ σέ · τὰ δʼ αὖ Διὶ πάντα μελήσει . 
 
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2187,0.6101,0.4480,0.02683](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2187,0.6101,0.4480,0.02683)
-
----- 
-
- ἐν δὲ γόνυ γνάμψεν · ἐπὶ δὲ χθονὶ κάππεσον ἄμφω
-
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2179,0.6300,0.4480,0.02932](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2179,0.6300,0.4480,0.02932)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2159,0.4979,0.4458,0.02393"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2159,0.4979,0.4458,0.02393"/></a> 
 
 ---- 
 
- πλησίοι ἀλλήλοισι , μιάνθησαν δὲ κονίῃ .
+ ὣς εἰπὼν ἀνάειρε · δόλου δʼ οὐ λήθετʼ Ὀδυσσεύς · 
 
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2154,0.6512,0.4381,0.02739](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2154,0.6512,0.4381,0.02739)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2124,0.5154,0.4468,0.02462"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2124,0.5154,0.4468,0.02462"/></a> 
 
 ---- 
 
- καί νύ κε τὸ τρίτον αὖτις ἀναΐξαντʼ ἐπάλαιον ,
+ κόψʼ ὄπιθεν κώληπα τυχών , ὑπέλυσε δὲ γυῖα , 
 
-![urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2155,0.6664,0.4521,0.03679](http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2155,0.6664,0.4521,0.03679)
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2098,0.5342,0.4493,0.02656"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2098,0.5342,0.4493,0.02656"/></a> 
+
+---- 
+
+ κὰδ δʼ ἔβαλʼ ἐξοπίσω · ἐπὶ δὲ στήθεσσιν Ὀδυσσεὺς 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2196,0.5550,0.4366,0.02642"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2196,0.5550,0.4366,0.02642"/></a> 
+
+---- 
+
+ κάππεσε · λαοὶ δʼ αὖ θηεῦντό τε θάμβησάν τε . 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2141,0.5729,0.4132,0.03071"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2141,0.5729,0.4132,0.03071"/></a> 
+
+---- 
+
+ δεύτερος αὖτʼ ἀνάειρε πολύτλας δῖος Ὀδυσσεύς , 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2071,0.5924,0.4759,0.02697"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2071,0.5924,0.4759,0.02697"/></a> 
+
+---- 
+
+ κίνησεν δʼ ἄρα τυτθὸν ἀπὸ χθονός , οὐδʼ ἔτʼ ἄειρεν , 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2187,0.6101,0.4480,0.02683"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2187,0.6101,0.4480,0.02683"/></a> 
+
+---- 
+
+ ἐν δὲ γόνυ γνάμψεν · ἐπὶ δὲ χθονὶ κάππεσον ἄμφω 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2179,0.6300,0.4480,0.02932"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2179,0.6300,0.4480,0.02932"/></a> 
+
+---- 
+
+ πλησίοι ἀλλήλοισι , μιάνθησαν δὲ κονίῃ . 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2154,0.6512,0.4381,0.02739"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2154,0.6512,0.4381,0.02739"/></a> 
+
+---- 
+
+ καί νύ κε τὸ τρίτον αὖτις ἀναΐξαντʼ ἐπάλαιον , 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2155,0.6664,0.4521,0.03679"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA307RN_0477@0.2155,0.6664,0.4521,0.03679"/></a> 
