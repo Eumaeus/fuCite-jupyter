@@ -1,4 +1,4 @@
-##O'Hare, Caitlin R.
+## O'Hare, Caitlin R.
 
 *Iliad* 23.508-23.542
 

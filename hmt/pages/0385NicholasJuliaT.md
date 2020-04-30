@@ -1,4 +1,4 @@
-##Nicholas, Julia T.
+## Nicholas, Julia T.
 
 *Iliad* 23.473-23.507
 

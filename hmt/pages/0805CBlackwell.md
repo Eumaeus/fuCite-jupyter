@@ -1,4 +1,4 @@
-##C. Blackwell
+## C. Blackwell
 
 *Iliad* 23.893-23.897
 

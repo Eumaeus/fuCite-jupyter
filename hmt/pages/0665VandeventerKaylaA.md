@@ -1,4 +1,4 @@
-##Vandeventer, Kayla A.
+## Vandeventer, Kayla A.
 
 *Iliad* 23.753-23.787
 

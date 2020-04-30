@@ -1,4 +1,4 @@
-##Bowman, Sabria L.
+## Bowman, Sabria L.
 
 *Iliad* 23.88-23.122
 

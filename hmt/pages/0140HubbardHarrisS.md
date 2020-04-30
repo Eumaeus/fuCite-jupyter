@@ -1,4 +1,4 @@
-##Hubbard, Harris S.
+## Hubbard, Harris S.
 
 *Iliad* 23.228-23.262
 
