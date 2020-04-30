@@ -13299,6 +13299,8 @@ urn:cite2:fufolio:extended_text_properties.v1.extendedtype:#Extended Text Type#S
 urn#label#propertyurn#extendedtype
 urn:cite2:fufolio:extended_text_properties.v1:xolotl_places#Place identifications proposed for the CodexXolotl#urn:cite2:xolotl:placeidentifications.v1.geo:#latlong
 urn:cite2:fufolio:extended_text_properties.v1:xolotl_md#Description field in Xolotl Places collection#urn:cite2:xolotl:placeidentifications.v1.desc:#markdown
+urn:cite2:fufolio:extended_text_properties.v1:crapo_gc_footnotes#Footnotes from Richley H. Crapo, Bonnie Glass-Coffin, edd., _Anonymo Mexicano_, University Press of Colorado, Utah State University Press. (2005)#urn:cite2:xolotl:crapo.v1.text:#markdown
+urn:cite2:fufolio:extended_text_properties.v1:self-referential#The Label proerty in this collection.#urn:cite2:fufolio:extended_text_properties.v1.label:#markdown
 
 //
 // Properties for the DSE Collection
