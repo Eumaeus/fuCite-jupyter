@@ -70,22 +70,6 @@
 
 ---
 
-## **Folio `urn:cite2:hmt:msA.v1:298r`**
-
-
-
-[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA298RN_0468`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298RN_0468@0.2108,0.2129,0.4296,0.03181)
-
----- 
-
- `23.262`  **ἱππεῦσιν μὲν πρῶτα ποδώκεσιν ἀγλάʼ ἄεθλα** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298RN_0468@0.2108,0.2129,0.4296,0.03181"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298RN_0468@0.2108,0.2129,0.4296,0.03181"/></a> 
-
----
-
----
-
 ## **Folio `urn:cite2:hmt:msA.v1:297v`**
 
 
@@ -241,3 +225,19 @@
  `23.261`  **ἠδὲ γυναῖκας ἐϋζώνους πολιόν τε σίδηρον .** 
 
  <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297VN_0799@0.4401,0.7041,0.4547,0.03278"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297VN_0799@0.4401,0.7041,0.4547,0.03278"/></a> 
+
+---
+
+---
+
+## **Folio `urn:cite2:hmt:msA.v1:298r`**
+
+
+
+[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA298RN_0468`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298RN_0468@0.2108,0.2129,0.4296,0.03181)
+
+---- 
+
+ `23.262`  **ἱππεῦσιν μὲν πρῶτα ποδώκεσιν ἀγλάʼ ἄεθλα** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298RN_0468@0.2108,0.2129,0.4296,0.03181"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298RN_0468@0.2108,0.2129,0.4296,0.03181"/></a> 

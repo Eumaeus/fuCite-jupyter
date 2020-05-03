@@ -6,6 +6,28 @@
 
 ---
 
+## **Folio `urn:cite2:hmt:msA.v1:309v`**
+
+
+
+[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA309VN_0811`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA309VN_0811@0.4650,0.6698,0.3978,0.01978&urn=urn:cite2:hmt:vaimg.2017a:VA309VN_0811@0.4490,0.6884,0.4329,0.02669)
+
+---- 
+
+ `23.858`  **ἥσσων γὰρ δὴ κεῖνος , ὃ δʼ οἴσεται ἡμιπέλεκκα .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA309VN_0811@0.4650,0.6698,0.3978,0.01978"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA309VN_0811@0.4650,0.6698,0.3978,0.01978"/></a> 
+
+---- 
+
+ `23.859`  **ὣς ἔφατʼ , ὦρτο δʼ ἔπειτα βίη Τεύκροιο ἄνακτος ,** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA309VN_0811@0.4490,0.6884,0.4329,0.02669"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA309VN_0811@0.4490,0.6884,0.4329,0.02669"/></a> 
+
+---
+
+---
+
 ## **Folio `urn:cite2:hmt:msA.v1:310r`**
 
 
@@ -219,25 +241,3 @@
  `23.892`  **ἀλλὰ σὺ μὲν τόδʼ ἄεθλον ἔχων κοίλας ἐπὶ νῆας** 
 
  <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA310VN_0812@0.4665,0.3645,0.4092,0.02227"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA310VN_0812@0.4665,0.3645,0.4092,0.02227"/></a> 
-
----
-
----
-
-## **Folio `urn:cite2:hmt:msA.v1:309v`**
-
-
-
-[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA309VN_0811`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA309VN_0811@0.4650,0.6698,0.3978,0.01978&urn=urn:cite2:hmt:vaimg.2017a:VA309VN_0811@0.4490,0.6884,0.4329,0.02669)
-
----- 
-
- `23.858`  **ἥσσων γὰρ δὴ κεῖνος , ὃ δʼ οἴσεται ἡμιπέλεκκα .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA309VN_0811@0.4650,0.6698,0.3978,0.01978"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA309VN_0811@0.4650,0.6698,0.3978,0.01978"/></a> 
-
----- 
-
- `23.859`  **ὣς ἔφατʼ , ὦρτο δʼ ἔπειτα βίη Τεύκροιο ἄνακτος ,** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA309VN_0811@0.4490,0.6884,0.4329,0.02669"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA309VN_0811@0.4490,0.6884,0.4329,0.02669"/></a> 

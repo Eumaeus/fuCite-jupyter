@@ -6,6 +6,52 @@
 
 ---
 
+## **Folio `urn:cite2:hmt:msA.v1:304r`**
+
+
+
+[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA304RN_0474`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2168,0.5880,0.3578,0.01923&urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2172,0.6061,0.3838,0.02351&urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2144,0.6257,0.3815,0.02116&urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.1866,0.6418,0.4165,0.02365&urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2150,0.6591,0.4311,0.02130&urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2091,0.6777,0.4105,0.03001)
+
+---- 
+
+ `23.578`  **ἵπποι , αὐτὸς δὲ κρείσσων ἀρετῇ τε βίῃ τε .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2168,0.5880,0.3578,0.01923"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2168,0.5880,0.3578,0.01923"/></a> 
+
+---- 
+
+ `23.579`  **εἰ δʼ ἄγʼ ἐγὼν αὐτὸς δικάσω , καί μʼ οὔ τινά φημι** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2172,0.6061,0.3838,0.02351"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2172,0.6061,0.3838,0.02351"/></a> 
+
+---- 
+
+ `23.580`  **ἄλλον ἐπιπλήξειν Δαναῶν · ἰθεῖα γὰρ ἔσται .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2144,0.6257,0.3815,0.02116"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2144,0.6257,0.3815,0.02116"/></a> 
+
+---- 
+
+ `23.581`  **Ἀντίλοχʼ εἰ δʼ ἄγε δεῦρο διοτρεφές , ἣ θέμις ἐστί ,** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.1866,0.6418,0.4165,0.02365"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.1866,0.6418,0.4165,0.02365"/></a> 
+
+---- 
+
+ `23.582`  **στὰς ἵππων προπάροιθε καὶ ἅρματος , αὐτὰρ ἱμάσθλην** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2150,0.6591,0.4311,0.02130"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2150,0.6591,0.4311,0.02130"/></a> 
+
+---- 
+
+ `23.583`  **χερσὶν ἔχε ῥαδινήν , ᾗ περ τὸ πρόσθεν ἔλαυνες ,** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2091,0.6777,0.4105,0.03001"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2091,0.6777,0.4105,0.03001"/></a> 
+
+---
+
+---
+
 ## **Folio `urn:cite2:hmt:msA.v1:304v`**
 
 
@@ -195,49 +241,3 @@
  `23.612`  **ἦ ῥα , καὶ Ἀντιλόχοιο Νοήμονι δῶκεν ἑταίρῳ** 
 
  <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA305RN_0475@0.2069,0.2750,0.3913,0.02656"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA305RN_0475@0.2069,0.2750,0.3913,0.02656"/></a> 
-
----
-
----
-
-## **Folio `urn:cite2:hmt:msA.v1:304r`**
-
-
-
-[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA304RN_0474`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2168,0.5880,0.3578,0.01923&urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2172,0.6061,0.3838,0.02351&urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2144,0.6257,0.3815,0.02116&urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.1866,0.6418,0.4165,0.02365&urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2150,0.6591,0.4311,0.02130&urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2091,0.6777,0.4105,0.03001)
-
----- 
-
- `23.578`  **ἵπποι , αὐτὸς δὲ κρείσσων ἀρετῇ τε βίῃ τε .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2168,0.5880,0.3578,0.01923"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2168,0.5880,0.3578,0.01923"/></a> 
-
----- 
-
- `23.579`  **εἰ δʼ ἄγʼ ἐγὼν αὐτὸς δικάσω , καί μʼ οὔ τινά φημι** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2172,0.6061,0.3838,0.02351"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2172,0.6061,0.3838,0.02351"/></a> 
-
----- 
-
- `23.580`  **ἄλλον ἐπιπλήξειν Δαναῶν · ἰθεῖα γὰρ ἔσται .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2144,0.6257,0.3815,0.02116"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2144,0.6257,0.3815,0.02116"/></a> 
-
----- 
-
- `23.581`  **Ἀντίλοχʼ εἰ δʼ ἄγε δεῦρο διοτρεφές , ἣ θέμις ἐστί ,** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.1866,0.6418,0.4165,0.02365"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.1866,0.6418,0.4165,0.02365"/></a> 
-
----- 
-
- `23.582`  **στὰς ἵππων προπάροιθε καὶ ἅρματος , αὐτὰρ ἱμάσθλην** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2150,0.6591,0.4311,0.02130"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2150,0.6591,0.4311,0.02130"/></a> 
-
----- 
-
- `23.583`  **χερσὶν ἔχε ῥαδινήν , ᾗ περ τὸ πρόσθεν ἔλαυνες ,** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2091,0.6777,0.4105,0.03001"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA304RN_0474@0.2091,0.6777,0.4105,0.03001"/></a> 

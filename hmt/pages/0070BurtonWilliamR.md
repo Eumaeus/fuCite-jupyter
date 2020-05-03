@@ -6,61 +6,17 @@
 
 ---
 
-## **Folio `urn:cite2:hmt:msA.v1:296v`**
-
-
-
-[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA296VN_0798`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4751,0.2411,0.4123,0.02130&urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4751,0.2610,0.4140,0.02130&urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4742,0.2830,0.4149,0.01798&urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4761,0.2997,0.4016,0.02130&urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4742,0.3216,0.4130,0.01867&urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4748,0.3391,0.4158,0.02075)
-
----- 
-
- `23.187`  **ἀμβροσίῳ , ἵνα μή μιν ἀποδρύφοι ἑλκυστάζων .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4751,0.2411,0.4123,0.02130"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4751,0.2411,0.4123,0.02130"/></a> 
-
----- 
-
- `23.188`  **τῷ δʼ ἐπὶ κυάνεον νέφος ἤγαγε Φοῖβος Ἀπόλλων** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4751,0.2610,0.4140,0.02130"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4751,0.2610,0.4140,0.02130"/></a> 
-
----- 
-
- `23.189`  **οὐρανόθεν πεδίον δέ , κάλυψε δὲ χῶρον ἅπαντα** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4742,0.2830,0.4149,0.01798"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4742,0.2830,0.4149,0.01798"/></a> 
-
----- 
-
- `23.190`  **ὅσσον ἐπεῖχε νέκυς , μὴ πρὶν μένος ἠελίοιο** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4761,0.2997,0.4016,0.02130"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4761,0.2997,0.4016,0.02130"/></a> 
-
----- 
-
- `23.191`  **σκήλειʼ ἀμφὶ περὶ χρόα ἴνεσιν ἠδὲ μέλεσσιν .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4742,0.3216,0.4130,0.01867"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4742,0.3216,0.4130,0.01867"/></a> 
-
----- 
-
- `23.192`  **οὐδὲ πυρὴ Πατρόκλου ἐκαίετο τεθνηῶτος ·** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4748,0.3391,0.4158,0.02075"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4748,0.3391,0.4158,0.02075"/></a> 
-
----
-
----
-
 ## **Folio `urn:cite2:hmt:msA.v1:295v`**
 
 
 
-[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA295VN_0797`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA295VN_0797@0.4838,0.6642,0.4175,0.01867&urn=urn:cite2:hmt:vaimg.2017a:VA295VN_0797@0.4854,0.6862,0.4202,0.01466&urn=urn:cite2:hmt:vaimg.2017a:VA295VN_0797@0.4845,0.7032,0.4200,0.01660)
+[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA295VN_0797`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA295VN_0797@0.4893,0.6375,0.4136,0.02669&urn=urn:cite2:hmt:vaimg.2017a:VA295VN_0797@0.4838,0.6642,0.4175,0.01867&urn=urn:cite2:hmt:vaimg.2017a:VA295VN_0797@0.4854,0.6862,0.4202,0.01466&urn=urn:cite2:hmt:vaimg.2017a:VA295VN_0797@0.4845,0.7032,0.4200,0.01660)
 
---- 
+---- 
 
- **No line for:*** νῦν δʼ ἀπὸ πυρκαϊῆς σκέδασον καὶ δεῖπνον ἄνωχθι
+ `23.158`  **νῦν δʼ ἀπὸ πυρκαϊῆς σκέδασον καὶ δεῖπνον ἄνωχθι** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA295VN_0797@0.4893,0.6375,0.4136,0.02669"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA295VN_0797@0.4893,0.6375,0.4136,0.02669"/></a> 
 
 ---- 
 
@@ -239,3 +195,49 @@
  `23.186`  **ἤματα καὶ νύκτας , ῥοδόεντι δὲ χρῖεν ἐλαίῳ** 
 
  <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296RN_0466@0.1910,0.6714,0.4280,0.02531"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296RN_0466@0.1910,0.6714,0.4280,0.02531"/></a> 
+
+---
+
+---
+
+## **Folio `urn:cite2:hmt:msA.v1:296v`**
+
+
+
+[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA296VN_0798`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4751,0.2411,0.4123,0.02130&urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4751,0.2610,0.4140,0.02130&urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4742,0.2830,0.4149,0.01798&urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4761,0.2997,0.4016,0.02130&urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4742,0.3216,0.4130,0.01867&urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4748,0.3391,0.4158,0.02075)
+
+---- 
+
+ `23.187`  **ἀμβροσίῳ , ἵνα μή μιν ἀποδρύφοι ἑλκυστάζων .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4751,0.2411,0.4123,0.02130"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4751,0.2411,0.4123,0.02130"/></a> 
+
+---- 
+
+ `23.188`  **τῷ δʼ ἐπὶ κυάνεον νέφος ἤγαγε Φοῖβος Ἀπόλλων** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4751,0.2610,0.4140,0.02130"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4751,0.2610,0.4140,0.02130"/></a> 
+
+---- 
+
+ `23.189`  **οὐρανόθεν πεδίον δέ , κάλυψε δὲ χῶρον ἅπαντα** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4742,0.2830,0.4149,0.01798"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4742,0.2830,0.4149,0.01798"/></a> 
+
+---- 
+
+ `23.190`  **ὅσσον ἐπεῖχε νέκυς , μὴ πρὶν μένος ἠελίοιο** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4761,0.2997,0.4016,0.02130"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4761,0.2997,0.4016,0.02130"/></a> 
+
+---- 
+
+ `23.191`  **σκήλειʼ ἀμφὶ περὶ χρόα ἴνεσιν ἠδὲ μέλεσσιν .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4742,0.3216,0.4130,0.01867"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4742,0.3216,0.4130,0.01867"/></a> 
+
+---- 
+
+ `23.192`  **οὐδὲ πυρὴ Πατρόκλου ἐκαίετο τεθνηῶτος ·** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4748,0.3391,0.4158,0.02075"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4748,0.3391,0.4158,0.02075"/></a> 

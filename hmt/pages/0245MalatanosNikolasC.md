@@ -6,6 +6,24 @@
 
 ---
 
+## **Folio `urn:cite2:hmt:msA.v1:299r`**
+
+
+
+Error: java.lang.Exception: More than one image represented in list.
+
+--- 
+
+ **No line for:*** καὶ νῦν τέρματʼ ἔθηκε ποδάρκης δῖος Ἀχιλλεύς .
+
+--- 
+
+ **No line for:*** τῷ σὺ μάλʼ ἐγχρίμψας ἐλάαν σχεδὸν ἅρμα καὶ ἵππους ,
+
+---
+
+---
+
 ## **Folio `urn:cite2:hmt:msA.v1:299v`**
 
 
@@ -111,24 +129,6 @@ Error: java.lang.Exception: More than one image represented in list.
 --- 
 
  **No line for:*** τηλόθεν ἐν λείῳ πεδίῳ · παρὰ δὲ σκοπὸν εἷσεν
-
----
-
----
-
-## **Folio `urn:cite2:hmt:msA.v1:299r`**
-
-
-
-Error: java.lang.Exception: More than one image represented in list.
-
---- 
-
- **No line for:*** καὶ νῦν τέρματʼ ἔθηκε ποδάρκης δῖος Ἀχιλλεύς .
-
---- 
-
- **No line for:*** τῷ σὺ μάλʼ ἐγχρίμψας ἐλάαν σχεδὸν ἅρμα καὶ ἵππους ,
 
 ---
 

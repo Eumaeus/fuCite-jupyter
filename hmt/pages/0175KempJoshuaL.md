@@ -6,88 +6,6 @@
 
 ---
 
-## **Folio `urn:cite2:hmt:msA.v1:298v`**
-
-
-
-[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA298VN_0800`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4781,0.2448,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4755,0.2638,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4761,0.2853,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4738,0.3011,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4777,0.3235,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4788,0.3440,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4768,0.3615,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4725,0.3812,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4746,0.4011,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4786,0.4180,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4770,0.4353,0.4193,0.03167&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4751,0.4544,0.4193,0.03167)
-
----- 
-
- `23.286`  **ἵπποισίν τε πέποιθε καὶ ἅρμασι κολλητοῖσιν .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4781,0.2448,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4781,0.2448,0.4193,0.02434"/></a> 
-
----- 
-
- `23.287`  **ὣς φάτο Πηλεΐδης , ταχέες δʼ ἱππῆες ἄγερθεν .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4755,0.2638,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4755,0.2638,0.4193,0.02434"/></a> 
-
----- 
-
- `23.288`  **ὦρτο πολὺ πρῶτος μὲν ἄναξ ἀνδρῶν Εὔμηλος** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4761,0.2853,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4761,0.2853,0.4193,0.02434"/></a> 
-
----- 
-
- `23.289`  **Ἀδμήτου φίλος υἱός , ὃς ἱπποσύνῃ ἐκέκαστο ·** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4738,0.3011,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4738,0.3011,0.4193,0.02434"/></a> 
-
----- 
-
- `23.290`  **τῷ δʼ ἐπὶ Τυδεΐδης ὦρτο κρατερὸς Διομήδης ,** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4777,0.3235,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4777,0.3235,0.4193,0.02434"/></a> 
-
----- 
-
- `23.291`  **ἵππους δὲ Τρῳοὺς ὕπαγε ζυγόν , οὕς ποτʼ ἀπηύρα** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4788,0.3440,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4788,0.3440,0.4193,0.02434"/></a> 
-
----- 
-
- `23.292`  **Αἰνείαν , ἀτὰρ αὐτὸν ὑπεξεσάωσεν Ἀπόλλων .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4768,0.3615,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4768,0.3615,0.4193,0.02434"/></a> 
-
----- 
-
- `23.293`  **τῷ δʼ ἄρʼ ἐπʼ Ἀτρεΐδης ὦρτο ξανθὸς Μενέλαος** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4725,0.3812,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4725,0.3812,0.4193,0.02434"/></a> 
-
----- 
-
- `23.294`  **διογενής , ὑπὸ δὲ ζυγὸν ἤγαγεν ὠκέας ἵππους** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4746,0.4011,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4746,0.4011,0.4193,0.02434"/></a> 
-
----- 
-
- `23.295`  **Αἴθην τὴν Ἀγαμεμνονέην τὸν ἑόν τε Πόδαργον ·** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4786,0.4180,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4786,0.4180,0.4193,0.02434"/></a> 
-
----- 
-
- `23.296`  **τὴν Ἀγαμέμνονι δῶκʼ Ἀγχισιάδης Ἐχέπωλος** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4770,0.4353,0.4193,0.03167"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4770,0.4353,0.4193,0.03167"/></a> 
-
----- 
-
- `23.297`  **δῶρʼ , ἵνα μή οἱ ἕποιθʼ ὑπὸ Ἴλιον ἠνεμόεσσαν ,** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4751,0.4544,0.4193,0.03167"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4751,0.4544,0.4193,0.03167"/></a> 
-
----
-
----
-
 ## **Folio `urn:cite2:hmt:msA.v1:298r`**
 
 
@@ -231,3 +149,85 @@
  `23.285`  **ἄλλοι δὲ στέλλεσθε κατὰ στρατόν , ὅς τις Ἀχαιῶν** 
 
  <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298RN_0468@0.2067,0.6585,0.4173,0.02061"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298RN_0468@0.2067,0.6585,0.4173,0.02061"/></a> 
+
+---
+
+---
+
+## **Folio `urn:cite2:hmt:msA.v1:298v`**
+
+
+
+[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA298VN_0800`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4781,0.2448,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4755,0.2638,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4761,0.2853,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4738,0.3011,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4777,0.3235,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4788,0.3440,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4768,0.3615,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4725,0.3812,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4746,0.4011,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4786,0.4180,0.4193,0.02434&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4770,0.4353,0.4193,0.03167&urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4751,0.4544,0.4193,0.03167)
+
+---- 
+
+ `23.286`  **ἵπποισίν τε πέποιθε καὶ ἅρμασι κολλητοῖσιν .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4781,0.2448,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4781,0.2448,0.4193,0.02434"/></a> 
+
+---- 
+
+ `23.287`  **ὣς φάτο Πηλεΐδης , ταχέες δʼ ἱππῆες ἄγερθεν .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4755,0.2638,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4755,0.2638,0.4193,0.02434"/></a> 
+
+---- 
+
+ `23.288`  **ὦρτο πολὺ πρῶτος μὲν ἄναξ ἀνδρῶν Εὔμηλος** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4761,0.2853,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4761,0.2853,0.4193,0.02434"/></a> 
+
+---- 
+
+ `23.289`  **Ἀδμήτου φίλος υἱός , ὃς ἱπποσύνῃ ἐκέκαστο ·** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4738,0.3011,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4738,0.3011,0.4193,0.02434"/></a> 
+
+---- 
+
+ `23.290`  **τῷ δʼ ἐπὶ Τυδεΐδης ὦρτο κρατερὸς Διομήδης ,** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4777,0.3235,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4777,0.3235,0.4193,0.02434"/></a> 
+
+---- 
+
+ `23.291`  **ἵππους δὲ Τρῳοὺς ὕπαγε ζυγόν , οὕς ποτʼ ἀπηύρα** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4788,0.3440,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4788,0.3440,0.4193,0.02434"/></a> 
+
+---- 
+
+ `23.292`  **Αἰνείαν , ἀτὰρ αὐτὸν ὑπεξεσάωσεν Ἀπόλλων .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4768,0.3615,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4768,0.3615,0.4193,0.02434"/></a> 
+
+---- 
+
+ `23.293`  **τῷ δʼ ἄρʼ ἐπʼ Ἀτρεΐδης ὦρτο ξανθὸς Μενέλαος** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4725,0.3812,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4725,0.3812,0.4193,0.02434"/></a> 
+
+---- 
+
+ `23.294`  **διογενής , ὑπὸ δὲ ζυγὸν ἤγαγεν ὠκέας ἵππους** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4746,0.4011,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4746,0.4011,0.4193,0.02434"/></a> 
+
+---- 
+
+ `23.295`  **Αἴθην τὴν Ἀγαμεμνονέην τὸν ἑόν τε Πόδαργον ·** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4786,0.4180,0.4193,0.02434"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4786,0.4180,0.4193,0.02434"/></a> 
+
+---- 
+
+ `23.296`  **τὴν Ἀγαμέμνονι δῶκʼ Ἀγχισιάδης Ἐχέπωλος** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4770,0.4353,0.4193,0.03167"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4770,0.4353,0.4193,0.03167"/></a> 
+
+---- 
+
+ `23.297`  **δῶρʼ , ἵνα μή οἱ ἕποιθʼ ὑπὸ Ἴλιον ἠνεμόεσσαν ,** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4751,0.4544,0.4193,0.03167"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA298VN_0800@0.4751,0.4544,0.4193,0.03167"/></a> 

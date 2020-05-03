@@ -6,112 +6,6 @@
 
 ---
 
-## **Folio `urn:cite2:hmt:msA.v1:297r`**
-
-
-
-[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA297RN_0467`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2159,0.2102,0.4005,0.02614&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2157,0.2333,0.4119,0.02324&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2100,0.2530,0.4298,0.02531&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2124,0.2762,0.4304,0.01992&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2087,0.2950,0.4217,0.02047&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2091,0.3133,0.4329,0.02116&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2082,0.3328,0.4149,0.02324&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2095,0.3519,0.4412,0.02144&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2095,0.3723,0.4289,0.02089&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2058,0.3891,0.3793,0.02241&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2052,0.4101,0.4000,0.02047&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2080,0.4290,0.4232,0.02061&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2049,0.4484,0.3780,0.01867&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2034,0.4656,0.4243,0.02337&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2054,0.4863,0.4226,0.02047&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2076,0.5035,0.4469,0.02324)
-
----- 
-
- `23.212`  **ἣ μὲν ἄρʼ ὣς εἰποῦσʼ ἀπεβήσετο , τοὶ δʼ ὀρέοντο** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2159,0.2102,0.4005,0.02614"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2159,0.2102,0.4005,0.02614"/></a> 
-
----- 
-
- `23.213`  **ἠχῇ θεσπεσίῃ νέφεα κλονέοντε πάροιθεν .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2157,0.2333,0.4119,0.02324"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2157,0.2333,0.4119,0.02324"/></a> 
-
----- 
-
- `23.214`  **αἶψα δὲ πόντον ἵκανον ἀήμεναι , ὦρτο δὲ κῦμα** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2100,0.2530,0.4298,0.02531"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2100,0.2530,0.4298,0.02531"/></a> 
-
----- 
-
- `23.215`  **πνοιῇ ὕπο λιγυρῇ · Τροίην δʼ ἐρίβωλον ἱκέσθην ,** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2124,0.2762,0.4304,0.01992"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2124,0.2762,0.4304,0.01992"/></a> 
-
----- 
-
- `23.216`  **ἐν δὲ πυρῇ πεσέτην , μέγα δʼ ἴαχε θεσπιδαὲς πῦρ .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2087,0.2950,0.4217,0.02047"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2087,0.2950,0.4217,0.02047"/></a> 
-
----- 
-
- `23.217`  **παννύχιοι δʼ ἄρα τοί γε πυρῆς ἄμυδις φλόγʼ ἔβαλλον** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2091,0.3133,0.4329,0.02116"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2091,0.3133,0.4329,0.02116"/></a> 
-
----- 
-
- `23.218`  **φυσῶντες λιγέως · ὃ δὲ πάννυχος ὠκὺς Ἀχιλλεὺς** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2082,0.3328,0.4149,0.02324"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2082,0.3328,0.4149,0.02324"/></a> 
-
----- 
-
- `23.219`  **χρυσέου ἐκ κρητῆρος ἑλὼν δέπας ἀμφικύπελλον** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2095,0.3519,0.4412,0.02144"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2095,0.3519,0.4412,0.02144"/></a> 
-
----- 
-
- `23.220`  **οἶνον ἀφυσσόμενος χαμάδις χέε , δεῦε δὲ γαῖαν** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2095,0.3723,0.4289,0.02089"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2095,0.3723,0.4289,0.02089"/></a> 
-
----- 
-
- `23.221`  **ψυχὴν κικλήσκων Πατροκλῆος δειλοῖο .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2058,0.3891,0.3793,0.02241"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2058,0.3891,0.3793,0.02241"/></a> 
-
----- 
-
- `23.222`  **ὡς δὲ πατὴρ οὗ παιδὸς ὀδύρεται ὀστέα καίων** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2052,0.4101,0.4000,0.02047"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2052,0.4101,0.4000,0.02047"/></a> 
-
----- 
-
- `23.223`  **νυμφίου , ὅς τε θανὼν δειλοὺς ἀκάχησε τοκῆας ,** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2080,0.4290,0.4232,0.02061"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2080,0.4290,0.4232,0.02061"/></a> 
-
----- 
-
- `23.224`  **ὣς Ἀχιλεὺς ἑτάροιο ὀδύρετο ὀστέα καίων ,** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2049,0.4484,0.3780,0.01867"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2049,0.4484,0.3780,0.01867"/></a> 
-
----- 
-
- `23.225`  **ἑρπύζων παρὰ πυρκαϊὴν ἁδινὰ στεναχίζων .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2034,0.4656,0.4243,0.02337"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2034,0.4656,0.4243,0.02337"/></a> 
-
----- 
-
- `23.226`  **ἦμος δʼ ἑωσφόρος εἶσι φόως ἐρέων ἐπὶ γαῖαν ,** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2054,0.4863,0.4226,0.02047"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2054,0.4863,0.4226,0.02047"/></a> 
-
----- 
-
- `23.227`  **ὅν τε μέτα κροκόπεπλος ὑπεὶρ ἅλα κίδναται ἠώς ,** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2076,0.5035,0.4469,0.02324"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2076,0.5035,0.4469,0.02324"/></a> 
-
----
-
----
-
 ## **Folio `urn:cite2:hmt:msA.v1:296v`**
 
 
@@ -231,3 +125,109 @@
  `23.211`  **Πάτροκλος , τὸν πάντες ἀναστενάχουσιν Ἀχαιοί .** 
 
  <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4738,0.6985,0.4258,0.02144"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA296VN_0798@0.4738,0.6985,0.4258,0.02144"/></a> 
+
+---
+
+---
+
+## **Folio `urn:cite2:hmt:msA.v1:297r`**
+
+
+
+[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA297RN_0467`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2159,0.2102,0.4005,0.02614&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2157,0.2333,0.4119,0.02324&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2100,0.2530,0.4298,0.02531&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2124,0.2762,0.4304,0.01992&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2087,0.2950,0.4217,0.02047&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2091,0.3133,0.4329,0.02116&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2082,0.3328,0.4149,0.02324&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2095,0.3519,0.4412,0.02144&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2095,0.3723,0.4289,0.02089&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2058,0.3891,0.3793,0.02241&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2052,0.4101,0.4000,0.02047&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2080,0.4290,0.4232,0.02061&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2049,0.4484,0.3780,0.01867&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2034,0.4656,0.4243,0.02337&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2054,0.4863,0.4226,0.02047&urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2076,0.5035,0.4469,0.02324)
+
+---- 
+
+ `23.212`  **ἣ μὲν ἄρʼ ὣς εἰποῦσʼ ἀπεβήσετο , τοὶ δʼ ὀρέοντο** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2159,0.2102,0.4005,0.02614"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2159,0.2102,0.4005,0.02614"/></a> 
+
+---- 
+
+ `23.213`  **ἠχῇ θεσπεσίῃ νέφεα κλονέοντε πάροιθεν .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2157,0.2333,0.4119,0.02324"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2157,0.2333,0.4119,0.02324"/></a> 
+
+---- 
+
+ `23.214`  **αἶψα δὲ πόντον ἵκανον ἀήμεναι , ὦρτο δὲ κῦμα** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2100,0.2530,0.4298,0.02531"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2100,0.2530,0.4298,0.02531"/></a> 
+
+---- 
+
+ `23.215`  **πνοιῇ ὕπο λιγυρῇ · Τροίην δʼ ἐρίβωλον ἱκέσθην ,** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2124,0.2762,0.4304,0.01992"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2124,0.2762,0.4304,0.01992"/></a> 
+
+---- 
+
+ `23.216`  **ἐν δὲ πυρῇ πεσέτην , μέγα δʼ ἴαχε θεσπιδαὲς πῦρ .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2087,0.2950,0.4217,0.02047"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2087,0.2950,0.4217,0.02047"/></a> 
+
+---- 
+
+ `23.217`  **παννύχιοι δʼ ἄρα τοί γε πυρῆς ἄμυδις φλόγʼ ἔβαλλον** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2091,0.3133,0.4329,0.02116"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2091,0.3133,0.4329,0.02116"/></a> 
+
+---- 
+
+ `23.218`  **φυσῶντες λιγέως · ὃ δὲ πάννυχος ὠκὺς Ἀχιλλεὺς** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2082,0.3328,0.4149,0.02324"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2082,0.3328,0.4149,0.02324"/></a> 
+
+---- 
+
+ `23.219`  **χρυσέου ἐκ κρητῆρος ἑλὼν δέπας ἀμφικύπελλον** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2095,0.3519,0.4412,0.02144"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2095,0.3519,0.4412,0.02144"/></a> 
+
+---- 
+
+ `23.220`  **οἶνον ἀφυσσόμενος χαμάδις χέε , δεῦε δὲ γαῖαν** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2095,0.3723,0.4289,0.02089"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2095,0.3723,0.4289,0.02089"/></a> 
+
+---- 
+
+ `23.221`  **ψυχὴν κικλήσκων Πατροκλῆος δειλοῖο .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2058,0.3891,0.3793,0.02241"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2058,0.3891,0.3793,0.02241"/></a> 
+
+---- 
+
+ `23.222`  **ὡς δὲ πατὴρ οὗ παιδὸς ὀδύρεται ὀστέα καίων** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2052,0.4101,0.4000,0.02047"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2052,0.4101,0.4000,0.02047"/></a> 
+
+---- 
+
+ `23.223`  **νυμφίου , ὅς τε θανὼν δειλοὺς ἀκάχησε τοκῆας ,** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2080,0.4290,0.4232,0.02061"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2080,0.4290,0.4232,0.02061"/></a> 
+
+---- 
+
+ `23.224`  **ὣς Ἀχιλεὺς ἑτάροιο ὀδύρετο ὀστέα καίων ,** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2049,0.4484,0.3780,0.01867"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2049,0.4484,0.3780,0.01867"/></a> 
+
+---- 
+
+ `23.225`  **ἑρπύζων παρὰ πυρκαϊὴν ἁδινὰ στεναχίζων .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2034,0.4656,0.4243,0.02337"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2034,0.4656,0.4243,0.02337"/></a> 
+
+---- 
+
+ `23.226`  **ἦμος δʼ ἑωσφόρος εἶσι φόως ἐρέων ἐπὶ γαῖαν ,** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2054,0.4863,0.4226,0.02047"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2054,0.4863,0.4226,0.02047"/></a> 
+
+---- 
+
+ `23.227`  **ὅν τε μέτα κροκόπεπλος ὑπεὶρ ἅλα κίδναται ἠώς ,** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2076,0.5035,0.4469,0.02324"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA297RN_0467@0.2076,0.5035,0.4469,0.02324"/></a> 

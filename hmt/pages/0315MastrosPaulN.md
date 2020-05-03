@@ -6,40 +6,6 @@
 
 ---
 
-## **Folio `urn:cite2:hmt:msA.v1:301v`**
-
-
-
-Error: java.lang.Exception: More than one image represented in list.
-
----- 
-
- `23.434`  **Ἀτρεΐδεω · αὐτὸς γὰρ ἑκὼν μεθέηκεν ἐλαύνειν** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"/></a> 
-
----- 
-
- `23.435`  **μή πως συγκύρσειαν ὁδῷ ἔνι μώνυχες ἵπποι ,** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"/></a> 
-
----- 
-
- `23.436`  **δίφρους τʼ ἀνστρέψειαν ἐϋπλεκέας , κατὰ δʼ αὐτοὶ** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4845,0.2957,0.4132,0.01895"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4845,0.2957,0.4132,0.01895"/></a> 
-
----- 
-
- `23.437`  **ἐν κονίῃσι πέσοιεν ἐπειγόμενοι περὶ νίκης .** 
-
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4871,0.3147,0.3994,0.01867"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4871,0.3147,0.3994,0.01867"/></a> 
-
----
-
----
-
 ## **Folio `urn:cite2:hmt:msA.v1:300v`**
 
 
@@ -241,3 +207,37 @@ Error: java.lang.Exception: More than one image represented in list.
  `23.433`  **τόσσον ἐπιδραμέτην · αἳ δʼ ἠρώησαν ὀπίσσω** 
 
  <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"/></a> 
+
+---
+
+---
+
+## **Folio `urn:cite2:hmt:msA.v1:301v`**
+
+
+
+Error: java.lang.Exception: More than one image represented in list.
+
+---- 
+
+ `23.434`  **Ἀτρεΐδεω · αὐτὸς γὰρ ἑκὼν μεθέηκεν ἐλαύνειν** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"/></a> 
+
+---- 
+
+ `23.435`  **μή πως συγκύρσειαν ὁδῷ ἔνι μώνυχες ἵπποι ,** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"/></a> 
+
+---- 
+
+ `23.436`  **δίφρους τʼ ἀνστρέψειαν ἐϋπλεκέας , κατὰ δʼ αὐτοὶ** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4845,0.2957,0.4132,0.01895"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4845,0.2957,0.4132,0.01895"/></a> 
+
+---- 
+
+ `23.437`  **ἐν κονίῃσι πέσοιεν ἐπειγόμενοι περὶ νίκης .** 
+
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4871,0.3147,0.3994,0.01867"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4871,0.3147,0.3994,0.01867"/></a> 
