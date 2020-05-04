@@ -13300,7 +13300,7 @@ urn#label#propertyurn#extendedtype
 urn:cite2:fufolio:extended_text_properties.v1:xolotl_places#Place identifications proposed for the CodexXolotl#urn:cite2:xolotl:placeidentifications.v1.geo:#latlong
 urn:cite2:fufolio:extended_text_properties.v1:xolotl_md#Description field in Xolotl Places collection#urn:cite2:xolotl:placeidentifications.v1.desc:#markdown
 urn:cite2:fufolio:extended_text_properties.v1:crapo_gc_footnotes#Footnotes from Richley H. Crapo, Bonnie Glass-Coffin, edd., _Anonymo Mexicano_, University Press of Colorado, Utah State University Press. (2005)#urn:cite2:xolotl:crapo.v1.text:#markdown
-urn:cite2:fufolio:extended_text_properties.v1:self-referential#The Label proerty in this collection.#urn:cite2:fufolio:extended_text_properties.v1.label:#markdown
+urn:cite2:fufolio:extended_text_properties.v1:self-referential#The Label property in this collection.#urn:cite2:fufolio:extended_text_properties.v1.label:#markdown
 
 //
 // Properties for the DSE Collection
@@ -13414,12 +13414,12 @@ urn:cite2:xolotl:commentary.v1:6#Comment 6#urn:cite2:xolotl:codex.v1:2#urn:cite2
 
 
 #!relations
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1747,0.2732,0.1129#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:1
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1991,0.08156,0.07281#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:2
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.5224,0.1879,0.07894,0.08048#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:3
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4723,0.1863,0.06060,0.01436#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:4
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4455,0.1983,0.1235,0.08717#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:5
-urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4255,0.2070,0.05536,0.04054#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:commentary.v1:6
+urn:cite2:xolotl:commentary.v1:1#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1747,0.2732,0.1129
+urn:cite2:xolotl:commentary.v1:2#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.3374,0.1991,0.08156,0.07281
+urn:cite2:xolotl:commentary.v1:3#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.5224,0.1879,0.07894,0.08048
+urn:cite2:xolotl:commentary.v1:4#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4723,0.1863,0.06060,0.01436
+urn:cite2:xolotl:commentary.v1:5#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4455,0.1983,0.1235,0.08717
+urn:cite2:xolotl:commentary.v1:6#urn:cite2:cite:verbs.v1:commentsOn#urn:cite2:xolotl:codeximg.2020:27_11r_vis2@0.4255,0.2070,0.05536,0.04054
 
 #!citecollections
 URN#Description#Labelling property#Ordering property#License
