@@ -218,19 +218,19 @@
 
 
 
-Error: java.lang.Exception: More than one image represented in list.
+[All Images mapped to image `urn:cite2:hmt:vaimg.2017a:VA301VN_0803`.](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4902,0.2492,0.4221,0.02642&urn=urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4836,0.2726,0.3992,0.02642&urn=urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4845,0.2957,0.4132,0.01895&urn=urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4871,0.3147,0.3994,0.01867)
 
 ---- 
 
  `23.434`  **Ἀτρεΐδεω · αὐτὸς γὰρ ἑκὼν μεθέηκεν ἐλαύνειν** 
 
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"/></a> 
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4902,0.2492,0.4221,0.02642"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4902,0.2492,0.4221,0.02642"/></a> 
 
 ---- 
 
  `23.435`  **μή πως συγκύρσειαν ὁδῷ ἔνι μώνυχες ἵπποι ,** 
 
- <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301RN_0471@0.1968,0.6643,0.4154,0.02711"/></a> 
+ <a href="http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4836,0.2726,0.3992,0.02642"><img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vaimg.2017a:VA301VN_0803@0.4836,0.2726,0.3992,0.02642"/></a> 
 
 ---- 
 
